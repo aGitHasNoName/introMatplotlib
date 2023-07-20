@@ -1,3 +1,3 @@
-#### Link to recording:
-<br>https://northwestern.zoom.us/rec/share/jgQhwAMrXjVFl6KRZRQ3hzNWmAgASy29_AGnC_TGyt13GQYaobfdwJ0bMbOGPV4e.nks__3MUTbCBGc71 
-<br><br>Password was sent out in the email you received before the workshop.
+#### Links to Notebooks on Google Colab (in the cloud):
+<br>[Lecture notebook](https://colab.research.google.com/github/aGitHasNoName/introMatplotlib/blob/main/matplotlib.ipynb)
+<br>[Lecture notebook with answers](https://colab.research.google.com/github/aGitHasNoName/introMatplotlib/blob/main/matplotlib-answers.ipynb)
